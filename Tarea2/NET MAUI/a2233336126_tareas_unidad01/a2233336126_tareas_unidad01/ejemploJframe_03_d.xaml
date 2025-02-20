@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="a2233336126_tareas_unidad01.ejemploJframe_03_d">
+    <!-- Aquí el x:Class debe coincidir -->
+
+    <VerticalStackLayout Spacing="25" Padding="30,50" HorizontalOptions="Center">
+
+        <Label x:Name="La"
+               Text="El triángulo de base 5 y de altura 2"
+               FontSize="20"
+               HorizontalOptions="Center" />
+
+        <Label x:Name="Lb"
+               FontSize="20"
+               HorizontalOptions="Center" />
+
+        <Button x:Name="Bboton"
+                Text="Calcular"
+                Clicked="OnCalcularClicked"
+                HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>

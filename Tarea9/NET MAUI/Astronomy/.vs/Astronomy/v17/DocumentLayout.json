@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.7\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\pages\\astronomicalbodypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\pages\\astronomicalbodypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\pages\\astronomicalbodiespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\pages\\astronomicalbodiespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\pages\\astronomicalbodypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\pages\\astronomicalbodypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\pages\\astronomicalbodiespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\pages\\astronomicalbodiespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\astronomy\\astronomy\\astronomy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2507A40-8F11-470D-9359-010E150336AD}|Astronomy\\Astronomy.csproj|solutionrelative:astronomy\\astronomy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.7\\tools\\Xamarin.Android.Common.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.7\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.7\\tools\\Xamarin.Android.Common.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.7\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8FAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-02T00:51:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Astronomy\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\MainPage.xaml",
+              "RelativeToolTip": "Astronomy\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T00:47:11.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AstronomicalBodyPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodyPage.xaml.cs",
+              "RelativeDocumentMoniker": "Astronomy\\Pages\\AstronomicalBodyPage.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodyPage.xaml.cs",
+              "RelativeToolTip": "Astronomy\\Pages\\AstronomicalBodyPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:45:31.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AstronomicalBodyPage.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodyPage.xaml",
+              "RelativeDocumentMoniker": "Astronomy\\Pages\\AstronomicalBodyPage.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodyPage.xaml",
+              "RelativeToolTip": "Astronomy\\Pages\\AstronomicalBodyPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T00:45:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AstronomicalBodiesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodiesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Astronomy\\Pages\\AstronomicalBodiesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodiesPage.xaml.cs",
+              "RelativeToolTip": "Astronomy\\Pages\\AstronomicalBodiesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:44:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AstronomicalBodiesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodiesPage.xaml",
+              "RelativeDocumentMoniker": "Astronomy\\Pages\\AstronomicalBodiesPage.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Pages\\AstronomicalBodiesPage.xaml",
+              "RelativeToolTip": "Astronomy\\Pages\\AstronomicalBodiesPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T00:44:09.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Astronomy\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\AppShell.xaml.cs",
+              "RelativeToolTip": "Astronomy\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T00:43:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Astronomy\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\AppShell.xaml",
+              "RelativeToolTip": "Astronomy\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T00:42:48.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Astronomy.csproj",
+              "DocumentMoniker": "C:\\Users\\edgar\\Source\\Repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Astronomy.csproj",
+              "RelativeDocumentMoniker": "Astronomy\\Astronomy.csproj",
+              "ToolTip": "C:\\Users\\edgar\\Source\\Repos\\mslearn-dotnetmaui-create-multi-page-apps\\exercise3\\start\\Astronomy\\Astronomy\\Astronomy.csproj",
+              "RelativeToolTip": "Astronomy\\Astronomy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T00:25:00.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
