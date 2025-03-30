@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-use-shared-resources\\exercise1\\TipCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91B49C-395E-4B70-A714-A1BDA0311EA6}|TipCalculator.csproj|c:\\users\\edgar\\source\\repos\\mslearn-dotnetmaui-use-shared-resources\\exercise1\\tipcalculator\\standardtippage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D91B49C-395E-4B70-A714-A1BDA0311EA6}|TipCalculator.csproj|solutionrelative:standardtippage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StandardTipPage.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-use-shared-resources\\exercise1\\TipCalculator\\StandardTipPage.xaml",
+              "RelativeDocumentMoniker": "StandardTipPage.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\mslearn-dotnetmaui-use-shared-resources\\exercise1\\TipCalculator\\StandardTipPage.xaml",
+              "RelativeToolTip": "StandardTipPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-01T23:34:11.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

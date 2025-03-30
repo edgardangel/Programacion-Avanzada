@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\converters\\weatherconditiontoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\converters\\weatherconditiontoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\models\\weathertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\models\\weathertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\services\\wheaterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\services\\wheaterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|c:\\users\\edgar\\source\\repos\\weatherclient\\weatherclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3AE528D-2DFE-4A64-A73A-E5C20DB453A0}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherConditionToImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "RelativeToolTip": "WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:50:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherType.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherType.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Models\\WeatherType.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherType.cs",
+              "RelativeToolTip": "WeatherClient\\Models\\WeatherType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:44:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherData.cs",
+              "RelativeToolTip": "WeatherClient\\Models\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:43:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WheaterServer.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Services\\WheaterServer.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Services\\WheaterServer.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\Services\\WheaterServer.cs",
+              "RelativeToolTip": "WeatherClient\\Services\\WheaterServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:41:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml.cs",
+              "RelativeToolTip": "WeatherClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:31:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml",
+              "RelativeDocumentMoniker": "WeatherClient\\App.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml",
+              "RelativeToolTip": "WeatherClient\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T00:31:04.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\AppShell.xaml",
+              "RelativeDocumentMoniker": "WeatherClient\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\AppShell.xaml",
+              "RelativeToolTip": "WeatherClient\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T00:30:47.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\AppShell.xaml.cs",
+              "RelativeToolTip": "WeatherClient\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:30:28.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml.cs",
+              "RelativeToolTip": "WeatherClient\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:29:48.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WeatherClient\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml",
+              "RelativeToolTip": "WeatherClient\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T00:29:33.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\WeatherClient\\WeatherClient\\MauiProgram.cs",
+              "RelativeToolTip": "WeatherClient\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:29:04.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

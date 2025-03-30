@@ -1,0 +1,26 @@
+﻿<Window x:Class="CheckBoxx.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBoxx"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="52,56,0,0" Text="Cantidad" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+        <!-- Cambio de TextBlock a TextBox para que el número esté dentro de un recuadro -->
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Left" Margin="116,50,0,0" Width="40" Text="1" VerticalAlignment="Top"/>
+
+        <CheckBox x:Name="chkCebolla" Content="Cebolla" HorizontalAlignment="Left" Margin="76,95,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkJitomate" Content="Jitomate" HorizontalAlignment="Left" Margin="76,115,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chkPapas" HorizontalAlignment="Left" Margin="76,135,0,0" VerticalAlignment="Top" IsChecked="True">
+            <TextBlock>
+                <Run FontWeight="Bold" Foreground="Orange">Papas</Run>
+            </TextBlock>
+        </CheckBox>
+
+        <Button Name="btnCalcular" Content="Total" HorizontalAlignment="Left" Margin="196,112,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txbTotal" HorizontalAlignment="Left" Margin="76,167,0,0" Text="Total" TextWrapping="Wrap" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

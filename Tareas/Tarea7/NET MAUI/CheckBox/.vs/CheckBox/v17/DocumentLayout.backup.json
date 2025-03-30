@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\source\\repos\\CheckBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|c:\\users\\edgar\\source\\repos\\checkbox\\checkbox\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|c:\\users\\edgar\\source\\repos\\checkbox\\checkbox\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|c:\\users\\edgar\\source\\repos\\checkbox\\checkbox\\checkbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8750792D-EFE7-4A42-892A-83D5D20FE351}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\checkbox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 385,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckBox.csproj",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\CheckBox.csproj",
+              "RelativeDocumentMoniker": "CheckBox\\CheckBox.csproj",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\CheckBox.csproj",
+              "RelativeToolTip": "CheckBox\\CheckBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T23:12:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CheckBox\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\AssemblyInfo.cs",
+              "RelativeToolTip": "CheckBox\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:11:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "CheckBox\\CustomControl1.cs",
+              "ToolTip": "C:\\Users\\edgar\\source\\repos\\CheckBox\\CheckBox\\CustomControl1.cs*",
+              "RelativeToolTip": "CheckBox\\CustomControl1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T23:11:11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

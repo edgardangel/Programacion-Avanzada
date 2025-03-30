@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppTarea9.MainPage">
+
+    <VerticalStackLayout Margin="20">
+        <Label Text="Hello world." FontSize="32" HorizontalOptions="Center" />
+
+        <HorizontalStackLayout HorizontalOptions="Center">
+            <Button Text="Hello" Clicked="HelloButton_Clicked" />
+            <Button Text="Good bye" Clicked="GoodbyeButton_Clicked" />
+        </HorizontalStackLayout>
+
+        <Label Text="Add person." FontSize="24" Margin="0,20,0,0" />
+
+        <Entry x:Name="NameEntry" Placeholder="Name:" />
+        <Entry x:Name="OccupationEntry" Placeholder="Occupation:" />
+
+        <Button Text="OK" Clicked="OKButton_Clicked" HorizontalOptions="Center" />
+
+        <Label x:Name="ResultLabel" Text="" Margin="0,20,0,0" />
+    </VerticalStackLayout>
+
+</ContentPage>
